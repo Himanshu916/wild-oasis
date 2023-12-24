@@ -1,8 +1,17 @@
-# React + Vite
+# About this project
+## What I learned through this project ?
+- Handling authentication on client side.
+- Data fetching and consume it to inside UI.
+- Dynamic Routing
+- Compound Component Pattern
+- Integration of UI state with remote state.
+- How to read and set local storage.
+- How to organise code.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What Tech Stack I used ?
+- React , Redux Tookit
+- Styled Components
+- React Query
+- React Toaster
+- React Router Dom
+- Supabase for APIs
